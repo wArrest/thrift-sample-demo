@@ -1,0 +1,6 @@
+{
+    "name": "wanglucheng/php",
+    "require": {
+        "apache/thrift": "^0.13.0"
+    }
+}
